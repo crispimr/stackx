@@ -1,4 +1,4 @@
-# Tarefa 16. Três valores e o maior deles (IF)
+# Tarefa 17. Triângulo (IF)
 # Dev: Rafael Crispim
 # Data: 5.9.2022
 
