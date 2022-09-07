@@ -1,0 +1,18 @@
+# Exemplo 1
+
+a = 1
+b = 2
+if a > b:
+  print("o maior é:", a)
+else:
+  print("o maior é:", b)
+
+# Exemplo 2
+
+x = 11
+if x > 10:
+  print("Valor maior que 10")
+elif x <= 10 and x > 5:
+  print("Menor ou igual a 10 e maior do que 5")
+else:
+  print("Menor ou igual a 5")
