@@ -1,6 +1,7 @@
-#
+# Tarefa 1. Gratificação de natal (IF)
 # Dev: Rafael Crispim
 # Data: 4.9.2022
+
 # Uma empresa decidiu dar uma gratificação de Natal a seus funcionários, baseada no
 # número de horas extras e no número de horas que o funcionário faltou ao trabalho.
 # O valor do prêmio é obtido pela consulta à tabela que se segue, na qual:
