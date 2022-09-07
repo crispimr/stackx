@@ -1,4 +1,4 @@
-# Tarefa 2. Estruturas condicionais e de repetição: Tabuada com entrada do usuário (FOR)
+# Tarefa 1. Estruturas condicionais e de repetição: Preço de produtos (Swich Case)
 # Dev: Rafael Crispim
 # Data: 5.9.2022
 
