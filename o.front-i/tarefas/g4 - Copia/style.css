@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    height: 100%;
+    margin: 0px;
+    background: hsl(257, 40%, 49%);    
+    background-image: url("/o.front-i/tarefas/g4/images/bg-desktop.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.headings{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400, 600;
+    display: flex;
+    align-items: center;
+}
+
+.text{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.reg-btn{
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    border: none;
+    color: hsl(257, 40%, 49%);
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.reg-btn:hover{
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+}
